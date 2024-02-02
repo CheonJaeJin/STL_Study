@@ -35,7 +35,7 @@ If you see any errors or updates, please tell me👍.<br/>
     https://cjswowls0922.tistory.com/14 <br/>
 3-2. 이중 연결 리스트 구현하기 <br/>
     https://cjswowls0922.tistory.com/16 <br/>
-3-3. 향상된 이중 연결 리스트 구현하기 <br/>
+3-3. 향상된 이중 연결 리스트 구현하기 & iterator 구현 <br/>
     https://cjswowls0922.tistory.com/17 <br/>
 3-4. std::list <br/>
     https://cjswowls0922.tistory.com/18 <br/>
