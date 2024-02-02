@@ -13,19 +13,10 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\ArrayF">
-      <UniqueIdentifier>{8324167f-6141-41c1-92b3-6cd8a88006cc}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Array_1.cpp">
-      <Filter>소스 파일\ArrayF</Filter>
-    </ClCompile>
-    <ClCompile Include="Array_2.cpp">
-      <Filter>소스 파일\ArrayF</Filter>
-    </ClCompile>
-    <ClCompile Include="Array_3.cpp">
-      <Filter>소스 파일\ArrayF</Filter>
+    <ClCompile Include="Vector_1.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
