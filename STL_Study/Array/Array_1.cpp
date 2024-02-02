@@ -4,17 +4,20 @@ using namespace std;
 
 int main()
 {
-	int scores[5] = { 50, 60, 70, 80, 90 };
+	int Scores1[5]	= {};	//모두 0으로 초기화
 
-	//	int sz = sizeof(scores) / sizeof(scores[0]);
-	int sz = size(scores);
+	int Scores[5]	= { 50, 60, 70, 80, 90 };
 
-	int s = 0;
-	for (int i = 0; i < sz; i++) {
-		s += scores[i];
+	int Size = sizeof(Scores) / sizeof(Scores[0]);	// 20 /4
+
+	int Sum	= 0;
+
+	for (int i = 0; i < Size; i++)
+	{
+		Sum += Scores[i];
 	}
 
-	float m = (float)s / sz;
+	float M = (float)Sum / Size;
 
-	cout << "Mean score: " << m << endl;
+	cout << " 평균 : " << M << endl;
 }
