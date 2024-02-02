@@ -17,6 +17,10 @@ public:
 	LinkedList() : head(NULL) {}
 	~LinkedList()
 	{
+		while (!Empty())
+		{
+			PopFront();
+		}
 	}
 
 public:
