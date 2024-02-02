@@ -25,7 +25,11 @@ If you see any errors or updates, please tell me👍.<br/>
 2-1. std::vector(1) <br/>
 2-2. std::vector(2) <br/>
 2-3. modern <br/>
-2-4. [https://cjswowls0922.tistory.com/3](https://cjswowls0922.tistory.com/5?category=1106103)https://cjswowls0922.tistory.com/5?category=1106103 <br/>
+2-4. https://cjswowls0922.tistory.com/5?category=1106103 <br/>
+
+<br/>
+<br/>
+
 
 
 
