@@ -59,12 +59,12 @@ If you see any errors or updates, please tell me👍.<br/>
 
 ## Queue <br/>
 <div align="left">
-4-1. Queue 원리 알기 & std::Queue 사용하기  <br/>
-   https://cjswowls0922.tistory.com/39 <br/>
-4-2. 환영 큐 구현하기 <br/>
-    https://cjswowls0922.tistory.com/21?category=1106103 <br/>
-4-3. 양방향 큐와 std::deque 구현 및 사용<br/>
-    https://cjswowls0922.tistory.com/22?category=1106103 <br/>
+5-1. Queue 원리 알기 & std::Queue 사용하기  <br/>
+    https://cjswowls0922.tistory.com/39 <br/>
+5-2~3. 환영 큐 구현하기 <br/>
+    https://cjswowls0922.tistory.com/40<br/>
+5-4. 양방향 큐와 std::deque 구현 및 사용 <br/>
+    https://cjswowls0922.tistory.com/41 <br/>
 
 
 
